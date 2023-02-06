@@ -9,7 +9,7 @@ library(estimatr)
 library(lmtest)
 library(generics)
 library(mfx)
-setwd("C:/Users/simon/OneDrive/Desktop/tesi/Data")
+setwd(...)
 getwd()
 
 h1 <- read.csv("H_Spending.csv", sep = ";")
