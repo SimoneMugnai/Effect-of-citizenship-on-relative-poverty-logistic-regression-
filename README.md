@@ -3,4 +3,4 @@ Effect of citizenship on relative poverty: logistic regression applied to ISTAT 
 
 ## what I learnt
 1) statistical modelling of cross sectional data\
-2) visualizzazione e descrizione dei dati 
+2) data visualisation and description 
